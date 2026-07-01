@@ -17,7 +17,7 @@ $SECRET = @(
   'sk-proj-[A-Za-z0-9_-]{16,}','sk-[A-Za-z0-9]{32,}','ghp_[A-Za-z0-9]{30,}','github_pat_[A-Za-z0-9_]{40,}',
   'AIza[0-9A-Za-z_-]{30,}','xai-[A-Za-z0-9]{20,}','eyJ[A-Za-z0-9_-]{20,}\.eyJ[A-Za-z0-9_-]{20,}',
   '\b\d{3}\.\d{3}\.\d{3}-\d{2}\b','\b\d{2}\.\d{3}\.\d{3}/\d{4}-\d{2}\b',
-  '(?i)(api[_-]?key|secret|password|senha|token)\s*[=:]\s*[''"][^''"]{8,}[''"]'
+  '(?i)(api[_-]?key|secret|password|senha|token)\s*[=:]\s*[''"][^''"\s]{8,}[''"]'
 )
 $AITELL = @(
   '(?i)Capa gerada com OpenAI','(?i)gerada com OpenAI gpt-image','score 8[,\.]\d',
@@ -27,7 +27,7 @@ $AITELL = @(
 
 $skip = '\\(node_modules|\.git|\.venv|__pycache__|\.pytest_cache|\.ruff_cache)\\'
 $skipFile = '(openai-log\.json$|conceito-capa\.txt$|^AUDITORIA\.md$|auditor-github\.ps1$|package-lock\.json$)'
-$placeholder = '(\.\.\.|aqui|suasua|sua_chave|sua chave|exemplo|_test_|xxxxx|changeme|cole_|placeholder|vd_test|sk-proj-\.+|\bTEST\b|id\.secret|0001-91|789-00)'
+$placeholder = '(\.\.\.|aqui|suasua|sua_chave|sua chave|exemplo|_test_|xxxxx|changeme|cole_|placeholder|vd_test|sk-proj-\.+|\bTEST\b|id\.secret|0001-91|789-00|YOUR_|YOUR-|SUA-|fake|sk-test|dummy)'
 
 # Escanear SOMENTE arquivos tracked (git ls-files) -> reflete o que e' publico.
 $tracked = @()
