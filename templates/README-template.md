@@ -67,4 +67,4 @@ MIT — veja [LICENSE](LICENSE).
 
 ---
 
-<sub>Capa gerada com OpenAI <code>gpt-image-2</code>. Validada por juiz de visão (score ≥ 8).</sub>
+<sub>Capa: OpenAI <code>gpt-image-2</code>.</sub>
