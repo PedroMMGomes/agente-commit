@@ -1,4 +1,16 @@
-# 🤖 Agente de Commit — Playbook de Profissionalização de Repositórios
+<p align="center">
+  <img src="docs/readme-hero.png" alt="Agente de Commit — do zero ao publicado" width="100%">
+</p>
+
+<h1 align="center">🤖 Agente de Commit</h1>
+<p align="center"><strong>Playbook de Profissionalização de Repositórios</strong></p>
+
+<p align="center">
+  <img alt="status" src="https://img.shields.io/badge/status-pronto-22D3EE?style=flat-square">
+  <img alt="tipo" src="https://img.shields.io/badge/tipo-agente%20%2F%20playbook-0E7490?style=flat-square">
+  <img alt="capa" src="https://img.shields.io/badge/capa-OpenAI%20gpt--image--2-F59E0B?style=flat-square">
+  <img alt="idioma" src="https://img.shields.io/badge/idioma-PT--BR-0B1E2D?style=flat-square">
+</p>
 
 > **O que é:** um agente (humano ou IA) que pega um projeto cru e o transforma em um
 > repositório **profissional, publicado e bonito** — README de capa, imagem gerada por

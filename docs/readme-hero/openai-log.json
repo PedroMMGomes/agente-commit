@@ -1,0 +1,21 @@
+{
+  "model": "gpt-image-2",
+  "size": "1536x1024",
+  "n": 3,
+  "text": "DO ZERO AO PUBLICADO",
+  "prompt": "README hero banner for \"Agente de Commit\" — an agent that takes raw, unpolished projects and transforms them into professional, published GitHub repositories (beautiful cover image, tests passing, clean git history, pushed). The thesis to communicate: AUTOMATED PROFESSIONALIZATION — from messy to masterpiece, end to end.\n\nEditorial isometric 3D illustration, premium tech palette: deep navy base (#0B1E2D), glowing teal and cyan as primary accents, a single warm amber accent for energy/highlights, soft off-white for key subjects. Subtle dot-grid backdrop. Studio lighting, soft shadows, Apple-keynote aesthetic, high detail, subtle bloom. No watermark, no logos.\n\nComposition (wide hero, 3 depth planes, left-to-right reading flow, max 6 visual blocks):\n\nBACKGROUND PLANE — wide navy sky with faint dot-grid and a low teal constellation arc, generous headroom.\n\nMID PLANE (the action band, a clear BEFORE → AFTER transformation reading left to right):\n- LEFT (the BEFORE): a small pile of messy, tangled, dim raw code blocks/files — slightly chaotic, low saturation, monochrome grey-blue, looking unfinished. A glowing dashed \"conveyor\" path leaves this pile heading right.\n- CENTER (the AGENT — the hero): a confident, friendly stylized \"publisher robot\" character (rounded body, glowing cyan visor with two friendly eyes, small precise mechanical arms), mid-height, actively working. It is cleaning, polishing and assembling. Around it float elegant tool icons: a git-branch icon, a green checkmark (tests pass), a camera/image-frame icon (cover image), an upload/arrow icon (push). The robot is the most detailed, luminous subject with warm amber accents on its hands/tools — approachable, not corporate.\n- RIGHT (the AFTER — the OUTCOME, brightest point): a finished, polished, glowing \"published repository card\" rising slightly with a soft halo — a clean rounded panel showing a small beautiful cover image thumbnail at top, a neat file tree, a green \"passed\" badge, and an upward arrow. It radiates success. It is clearly the transformed, premium version of the messy pile on the left.\n\nFOREGROUND — subtle reflective ground plane catching navy/cyan/amber highlights. A faint glowing dotted trail connecting the messy pile (left) → robot (center) → published card (right), reinforcing the pipeline.\n\nMood: confident, premium, magical-but-grounded engineering automation. The visual hierarchy makes the ROBOT (center) and the PUBLISHED CARD (right) the protagonists; the messy pile (left) is small and clearly being \"left behind\"/transformed.\n\nDo NOT include: office scenes, business suits, sales charts, wireframe spheres, money symbols, generic abstract beauty without meaning, social media icons, watermarks, brand logos. Bold modern sans-serif text overlay reading exactly \"DO ZERO AO PUBLICADO\", centered and clearly legible. Show ONLY this single headline — do NOT add any other labels, captions, callouts or annotations. Keep it to a maximum of 4 visual blocks.",
+  "files": [
+    {
+      "file": "C:\\1Repos\\agente-commit\\docs\\readme-hero\\openai-1.png",
+      "kb": 1997
+    },
+    {
+      "file": "C:\\1Repos\\agente-commit\\docs\\readme-hero\\openai-2.png",
+      "kb": 2036
+    },
+    {
+      "file": "C:\\1Repos\\agente-commit\\docs\\readme-hero\\openai-3.png",
+      "kb": 2115
+    }
+  ]
+}
